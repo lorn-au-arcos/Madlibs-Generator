@@ -12,3 +12,7 @@ Generates and displays the final story with the user's inputs.
  # How to use
   Download and run the file on the IDE and give a placeholders words for the asked placeholders.
   
+
+## PS
+
+You can ask ChatGPT/Bard to create Madlibs story to create your own version.
